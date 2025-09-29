@@ -1,0 +1,10 @@
+.part{
+    width: 9000px;
+    height: 200px;
+    background-image: url(img/img/pattern.png);
+    background-color: aqua;
+   }
+   h1{
+    text-align: start;
+   }
+   
