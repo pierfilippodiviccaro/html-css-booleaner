@@ -1,10 +1,29 @@
-.part{
-    width: 9000px;
-    height: 200px;
+
+
+
+h1 {
+    text-align: start;
+    margin: 0;
+}
+
+thead {
+    text-align: center;
+}
+
+.subtitle {
+    color:grey;
+    margin: 0;
+    
+}
+
+.header {
     background-image: url(img/img/pattern.png);
     background-color: aqua;
-   }
-   h1{
-    text-align: start;
-   }
-   
+}
+
+.header-img {
+    width: 400px;
+}
+body{
+    margin: 0;
+}
