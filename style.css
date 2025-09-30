@@ -16,11 +16,11 @@ h1 {
 
 .header {
     background-image: url(img/img/pattern.png);
-    background-color: aqua;
+    background-color: #0000ff;
 }
 
 .header-img {
-    width: 400px;
+    width: 300px;
 }
 body{
     margin: 0;
@@ -44,9 +44,17 @@ body{
     background-image: url(img/graph.jpg);
     color: white;
 }
-.table-center{
-    text-align: center;
+thead{
+    background-color: #0000ff;
+    color: white;
 }
-.table-foot{
-    text-align: center;
+.bg-lightblue{
+    background-color: lightblue;
+}
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+.small-col{
+    width: 25%;
 }
